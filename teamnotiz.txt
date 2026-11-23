@@ -1,0 +1,4 @@
+IT-Support Teamnotiz
+Dieses Repository dient zur Übung von Git und GitHub.
+Wir arbeiten mit einfachen TXT-Dateien.
+Jede Änderung soll nachvollziehbar gespeichert werden.
